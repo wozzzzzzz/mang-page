@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6f64137d.css",
+    "main.js": "/static/js/main.7b300bb1.js",
+    "static/media/흑임자.png": "/static/media/흑임자.1194f4a02cdd4338d7cb.png",
+    "static/media/밥알.png": "/static/media/밥알.bc954bd2be83184c6f7a.png",
+    "static/media/수제.png": "/static/media/수제.dc521f57ec9c5a20fb36.png",
+    "static/media/사과.png": "/static/media/사과.a68f15324f5720b92c76.png",
+    "static/media/망개.png": "/static/media/망개.662a8dbdf2e05d633197.png",
+    "static/media/굴레.png": "/static/media/굴레.51d988528f4e91253cda.png",
+    "static/media/오메기.png": "/static/media/오메기.5e4a5d91393bac9d850e.png",
+    "index.html": "/index.html",
+    "main.6f64137d.css.map": "/static/css/main.6f64137d.css.map",
+    "main.7b300bb1.js.map": "/static/js/main.7b300bb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f64137d.css",
+    "static/js/main.7b300bb1.js"
+  ]
+}
